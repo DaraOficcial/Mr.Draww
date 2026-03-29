@@ -48,5 +48,22 @@
       {
         "text": "@DRAA_DARA","url": "https://www.instagram.com/draa_dara?igsh=N2VlN3huejhqczNx"
       }]
+  },
+  {
+    "title": "shortcut keyboard",
+    "content": [
+      "Berikut adalah 10 shortcut keyboard komputer:",
+      "Ctrl + C: Menyalin",
+      "Ctrl + V: Menempel",
+      "Ctrl + X: Memotong",
+      "Ctrl + Z: Undo",
+      "Ctrl + A: Select all",
+      "Alt + F4: Menutup aplikasi",
+      "Windows + D: Desktop",
+      "Windows + E: File Explorer",
+      "Ctrl + Shift + Esc: Task Manager",
+      "Windows + L: Lock screen"
+    ],
+    "date": "29 mar 26"
   }
 ]
