@@ -186,7 +186,14 @@ fetch('posts.json')
       const div = document.createElement("div");
       div.className = "con";
 
-      let content = post.content.replace(/\n/g, "<br>");
+      let content = "";
+
+// kalau array (multi baris)
+if (Array.isArray(post.content)) {
+  content = post.content.join("<br>");
+} else {
+  content = post.content;
+}
 
       let html = `<h3>${post.title}</h3>
       <p>${content}</p>`;
